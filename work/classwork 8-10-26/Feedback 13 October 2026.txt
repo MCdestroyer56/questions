@@ -1,0 +1,7 @@
+Excellent work.
+
+For elif2.py, you should always write the complete conditional check
+
+if num%2 ==0: or if num%2 ==1:
+
+What you have works fine but it is easier to check if you make clear what you are checking for
